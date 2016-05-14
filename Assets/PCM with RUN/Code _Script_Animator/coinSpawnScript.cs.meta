@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6daaee020b727d842befe95f730b98d3
+timeCreated: 1456984816
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Negative_Jump_Bonus: {fileID: 147110, guid: d8d8827cb2cbe724387b0fd3b113b893,
+      type: 2}
+  - Positive_Jump_Bonus: {fileID: 109532, guid: 82223f2944469b5419228ef027e1a7fb,
+      type: 2}
+  - Fitness_Bonus: {fileID: 114968, guid: 288588a0b7c0c0b4bb595a55fce3c725, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
